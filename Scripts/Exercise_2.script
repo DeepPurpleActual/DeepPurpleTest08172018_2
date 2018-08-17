@@ -1,0 +1,66 @@
+﻿//Launch browser
+DoubleClick "ChromeDot_Unselected"
+
+//Normalize browser window
+If ImageFound(Image:"ChromeMaximizeButton", WaitFor:5) then
+	Click FoundImageLocation()
+End If
+
+//Launch website
+Click "ChromeRefresh_AddressBarEntry"
+TypeText "nopcommerce.testplant.com"
+TypeText Return
+
+//Confirm website has finished loading and place focus in browser frame
+WaitFor 63.0, "NOP_logo"
+Click "NOP_logo"
+
+
+//Locate item on page
+Repeat until ImageFound("HTCOneM8AndroidL50Lollipop")
+	ScrollWheelDown 5
+End repeat
+ScrollWheelDown 1
+
+//Add item to cart
+set UL_Search to ImageLocation("HTCOneM8AndroidL50Lollipop")
+set LR_Search to ImageLocation("HTCOneM8AndroidL50Lollipop") + (200,200)
+set the SearchRectangle to (UL_Search,LR_Search)
+Click "AddToCartButton"
+set the searchRectangle to ()
+
+//Launch shopping cart
+TypeText ControlKey,HomeKey
+Click (Image:"ShoppingCartIcon", WaitFor:5)
+
+//Locate item in cart
+set UL_Search to ImageLocation("ProductsColumnHeader")
+set LR_Search to ImageLocation("ProductsColumnHeader") + (400,400)
+set the SearchRectangle to (UL_Search,LR_Search)
+If ImageFound(5, (text:"HTC One M8 Android")) then
+	LogSuccess "Item is in cart"
+	Set ItemLocation to FoundImageLocation()
+	MoveTo ItemLocation
+Else
+	LogError "Item is not in cart"
+End If
+set the searchRectangle to ()
+
+//Detrmine quantity of items in cart
+set QtyHeaderLocation to ImageLocation("QtyColumnHeader")
+Log QtyHeaderLocation
+Log ItemLocation
+set UL_Quantity to (item 1 of QtyHeaderLocation, item 2 of ItemLocation - 10,)
+set LR_Quantity to (item 1 of QtyHeaderLocation + 25, item 2 of ItemLocation + 10)
+set the searchRectangle to (UL_Quantity,LR_Quantity)
+set ItemQuantity to ReadText(UL_Quantity, LR_Quantity)
+Log ItemQuantity
+If ItemQuantity = 1 then
+	LogSuccess "You have the correct number of items"
+Else
+	LogError "You have the wrong number of items in your cart"
+	
+End If
+
+//Close browser
+TypeText optionKey,F4

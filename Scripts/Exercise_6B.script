@@ -1,0 +1,19 @@
+﻿//Launch browser
+DoubleClick "ChromeDot_Unselected"
+
+//Normalize browser window
+If ImageFound(Image:"ChromeMaximizeButton", WaitFor:5) then
+	Click FoundImageLocation()
+End If
+
+//Launch website
+Click "ChromeRefresh_AddressBarEntry"
+TypeText "c:/temp/debugging.html"
+TypeText Return
+
+repeat with each item of EveryImageLocation("debugging_GreenSquare_original")
+	click it
+end repeat
+
+Click "TestPlantLogo"
+

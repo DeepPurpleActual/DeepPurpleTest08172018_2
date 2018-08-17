@@ -1,0 +1,15 @@
+﻿global total
+
+to handle FriendlyGreeting
+	put "Welcome to SenseTalk. Happy scripting!"
+end FriendlyGreeting
+
+
+on AddingToTotal increment
+	add increment to global total
+end AddingToTotal
+
+function DivideTwoNumbers dividend, divisor
+	set thevalue to dividend/divisor
+	return thevalue
+end DivideTwoNumbers

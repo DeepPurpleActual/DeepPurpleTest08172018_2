@@ -1,0 +1,50 @@
+﻿//Launch browser
+DoubleClick "ChromeDot_Unselected"
+
+//Normalize browser window
+If ImageFound(Image:"ChromeMaximizeButton", WaitFor:5) then
+	Click FoundImageLocation()
+End If
+
+//Launch website
+Click "ChromeRefresh_AddressBarEntry"
+TypeText "c:/temp/responsive_form.html"
+TypeText Return
+
+set myData to file ResourcePath("ResponsiveList.csv")
+
+
+repeat with each line of line 2 to -1 of myData
+	Click "FullName"
+	//Log it
+	Log item 1 of it
+	TypeText item 1 of it, Tab
+	TypeText item 2 of it, Tab
+	TypeText item 3 of it, Tab
+	if item 4 of it = "orange" then
+		Click "Orange"
+	else if item 4 of it = "Yellow" then
+		Click "Yellow"
+	else if item 4 of it = "Purple" then
+		Click "Purple"
+	else
+		LogError "Value is out of range"
+	end if
+	if item 5 of it = "Phone" then
+		Click "Phone"
+	else if item 5 of it = "Laptop" then
+		Click "Laptop"
+	else if item 5 of it = "Desktop" then
+		Click "Desktop"
+	else
+		LogError "Value is out of range."		
+	end if
+	Click "SupperTime"
+	TypeText item 6 of it
+	TypeText Tab, Tab
+	TypeText Return
+	TypeText Return
+	Wait 2
+	
+	
+end repeat

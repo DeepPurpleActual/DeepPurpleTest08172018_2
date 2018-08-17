@@ -1,0 +1,7 @@
+﻿params alpha, bravo
+
+function AddingTwoItems alpha, bravo
+	set thevalue to alpha + bravo
+	log thevalue
+	return thevalue
+end AddingTwoItems

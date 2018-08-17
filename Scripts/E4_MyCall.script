@@ -1,0 +1,9 @@
+﻿E4_MyFunctions.FriendlyGreeting
+
+repeat 2 times
+	E4_MyFunctions.AddingToTotal 14
+	log global total
+end repeat
+
+log E4_MyFunctions.DivideTwoNumbers (21,3)
+

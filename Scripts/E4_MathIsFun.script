@@ -1,0 +1,5 @@
+﻿set thesolution to E4_AddItUp.addingtwoitems(12,17)
+
+log thesolution
+
+

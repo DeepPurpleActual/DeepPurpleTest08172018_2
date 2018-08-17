@@ -1,0 +1,48 @@
+﻿//Launch browser
+DoubleClick "ChromeDot_Unselected"
+
+//Normalize browser window
+If ImageFound(Image:"ChromeMaximizeButton", WaitFor:5) then
+	Click FoundImageLocation()
+End If
+
+//Launch website
+Click "ChromeRefresh_AddressBarEntry"
+TypeText "nopcommerce.testplant.com"
+TypeText Return
+
+//Confirm website has finished loading and place focus in browser frame
+WaitFor 63.0, "NOP_logo"
+Click "NOP_logo"
+
+//Open Electronics dropdown
+set UL_DropdownMenu to (ImageLocation(Text:"Electronics").x - 30,ImageLocation(Text:"Electronics").y + 30)
+log UL_DropdownMenu
+set BR_DropdownMenu to UL_DropdownMenu + (125,200)
+MoveTo (Text:"Electronics")
+set the searchRectangle to (UL_DropdownMenu,BR_DropdownMenu)
+Click (Text:"Camera & photo")
+set the searchRectangle to ()
+
+//Locate item on page
+Repeat until ImageFound(text:"Apple iCam")
+	ScrollWheelDown 2
+	Wait 1
+End repeat
+ScrollWheelDown 1
+
+//Read price using ReadText
+set RT_Price to ReadText(ImageLocation(Text:"Apple iCam").x - 35,ImageLocation(Text:"Apple iCam").y + 15, ImageLocation(Text:"Apple iCam").x + 50,ImageLocation(Text:"Apple iCam").y + 125)
+Log RT_Price
+
+//Read price using clipboard
+MoveTo (ImageLocation(Text:"Apple iCam").x - 35,ImageLocation(Text:"Apple iCam").y + 35)
+MouseButtonDown 1
+MoveTo (ImageLocation(Text:"Apple iCam").x + 50,ImageLocation(Text:"Apple iCam").y + 105)
+MouseButtonUp 1
+TypeText controlKey,"c"
+set RC_Price to trim(RemoteClipboard())
+Log RC_Price
+
+
+
