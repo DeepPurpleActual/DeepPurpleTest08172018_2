@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="E4_MathIsFun.script" package="Certification Suite.suite" timestamp="2018-02-15 14:11:10.962 -0500"
+ tests="1" successes="0" errors="1" time="0.166000">
+  <properties>
+   <property name="RunDate" value="2018-02-15 14:11:10.962 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="E4_MathIsFun.script" assertions="1" successes="0" errors="1" time="0.158">
+  </testcase>
+ </testsuite>
+</testsuites>

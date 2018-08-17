@@ -1,0 +1,23 @@
+﻿2018-02-14 15:22:27.855 -0500	START		Running Exercise_3.script
+2018-02-14 15:22:28.152 -0500	doubleclick	ChromeDot_Unselected	at (38, 445)	2	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:33.204 -0500	imagefound	ChromeMaximizeButton	Unable to Find Image ChromeMaximizeButton	5	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:33.321 -0500	click	ChromeRefresh_AddressBarEntry	at (154, 46)	10	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:34.304 -0500	typetext		nopcommerce.testplant.com	11	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:35.016 -0500	typetext		[return]	12	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:35.746 -0500	waitfor	NOP_logo	found at (391, 174)	15	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:35.854 -0500	click	NOP_logo	at (391, 174)	16	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:37.330 -0500	imagelocation	(TEXT:"Electronics")	at (684, 281)	19	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:38.853 -0500	imagelocation	(TEXT:"Electronics")	at (684, 281)	19	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:38.943 -0500	Log		(654,311)	20	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:40.357 -0500	moveto	(TEXT:"Electronics")	at (675, 281)	22	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:40.359 -0500	set		SEARCHRECTANGLE = ((654,311),(779,511))	23	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:41.358 -0500	click	(TEXT:"Camera & photo")	at (703, 326)	24	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:44.549 -0500	imagefound	(TEXT:"Apple iCam")	Unable to Find Image (TEXT:"Apple iCam")	27	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:44.552 -0500	scrollwheeldown		moved 2	28	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:48.573 -0500	imagefound	(TEXT:"Apple iCam")	Unable to Find Image (TEXT:"Apple iCam")	30	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:48.579 -0500	scrollwheeldown		moved 2	28	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:51.811 -0500	imagefound	(TEXT:"Apple iCam")	Unable to Find Image (TEXT:"Apple iCam")	30	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:51.817 -0500	scrollwheeldown		moved 2	28	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:54.364 -0500	Exception		Searching For Image: OCR Error: Operation was aborted	30	on_exercise_3	Exercise_3.script
+2018-02-14 15:22:54.404 -0500	EndTestCase		(Duration:"26.546", Errors:"1", Exceptions:"1", StartTime:"2018-02-14 15:22:27 -0500", Successes:"0", TestCase:"Exercise_3.script", Warnings:"0")
+2018-02-14 15:22:54.406 -0500	ABORTED		Execution Time 0:00:27 Exercise_3.script

@@ -1,0 +1,4 @@
+﻿2018-02-14 11:51:00.736 -0500	START		Running Exercise_2.script
+2018-02-14 11:51:00.960 -0500	doubleclick	ChromeDot_Unselected	at (38, 445)	1	on_exercise_2	Exercise_2.script
+2018-02-14 11:51:00.992 -0500	EndTestCase		(Duration:"0.252", Errors:"0", Exceptions:"0", StartTime:"2018-02-14 11:51:00 -0500", Successes:"1", TestCase:"Exercise_2.script", Warnings:"0")
+2018-02-14 11:51:01.087 -0500	SUCCESS		Execution Time 0:00:00 Exercise_2.script

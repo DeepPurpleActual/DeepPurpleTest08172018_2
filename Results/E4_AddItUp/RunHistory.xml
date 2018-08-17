@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="E4_AddItUp">
+ <run>
+  <RunDate>2018-02-15 14:11:04.301 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.171000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180215_141104.301/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

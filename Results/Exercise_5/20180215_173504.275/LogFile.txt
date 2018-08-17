@@ -1,0 +1,4 @@
+﻿2018-02-15 17:35:04.279 -0500	START		Running Exercise_5.script
+2018-02-15 17:35:09.321 -0500	Exception	ChromeDot_Unselected	No Image Found On Screen: "ChromeDot_Unselected"	2	on_exercise_5	Exercise_5.script
+2018-02-15 17:35:09.374 -0500	EndTestCase		(Duration:"5.092", Errors:"1", Exceptions:"1", StartTime:"2018-02-15 17:35:04 -0500", Successes:"0", TestCase:"Exercise_5.script", Warnings:"0")
+2018-02-15 17:35:09.375 -0500	ABORTED		Execution Time 0:00:05 Exercise_5.script

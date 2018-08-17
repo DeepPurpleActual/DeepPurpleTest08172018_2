@@ -1,0 +1,3 @@
+﻿2018-02-15 14:11:10.967 -0500	START		Running E4_MathIsFun.script
+2018-02-15 14:11:11.129 -0500	EndTestCase		(Duration:"0.158", Errors:"1", Exceptions:"0", StartTime:"2018-02-15 14:11:10 -0500", Successes:"0", TestCase:"E4_MathIsFun.script", Warnings:"0")
+2018-02-15 14:11:11.202 -0500	FAILURE		STUnknownMessage ERROR: No Such Function: 'addingtwoitems' -- Execution Time 0:00:01 E4_MathIsFun.script

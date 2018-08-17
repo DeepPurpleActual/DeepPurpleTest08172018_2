@@ -1,0 +1,9 @@
+﻿2018-02-19 14:34:03.246 -0500	START		Running Exercise_6a.script
+2018-02-19 14:34:03.530 -0500	doubleclick	ChromeDot_Unselected	at (38, 445)	2	on_exercise_6a	Exercise_6a.script
+2018-02-19 14:34:03.877 -0500	imagefound	ChromeMaximizeButton	found at (895, 20)	5	on_exercise_6a	Exercise_6a.script
+2018-02-19 14:34:04.309 -0500	click		at (895, 20)	6	on_exercise_6a	Exercise_6a.script
+2018-02-19 14:34:05.125 -0500	click	ChromeRefresh_AddressBarEntry	at (154, 46)	10	on_exercise_6a	Exercise_6a.script
+2018-02-19 14:34:06.078 -0500	typetext		c:/temp/debugging.html	11	on_exercise_6a	Exercise_6a.script
+2018-02-19 14:34:06.791 -0500	typetext		[return]	12	on_exercise_6a	Exercise_6a.script
+2018-02-19 14:34:06.851 -0500	EndTestCase		(Duration:"3.601", Errors:"0", Exceptions:"0", StartTime:"2018-02-19 14:34:03 -0500", Successes:"1", TestCase:"Exercise_6a.script", Warnings:"0")
+2018-02-19 14:34:06.977 -0500	SUCCESS		Execution Time 0:00:03 Exercise_6a.script

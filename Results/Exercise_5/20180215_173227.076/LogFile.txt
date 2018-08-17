@@ -1,0 +1,19 @@
+﻿2018-02-15 17:32:27.080 -0500	START		Running Exercise_5.script
+2018-02-15 17:32:27.346 -0500	doubleclick	ChromeDot_Unselected	at (38, 445)	2	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:32.453 -0500	imagefound	ChromeMaximizeButton	Unable to Find Image ChromeMaximizeButton	5	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:32.587 -0500	click	ChromeRefresh_AddressBarEntry	at (154, 46)	10	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:33.613 -0500	typetext		c:/temp/responsive_form.html	11	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:34.325 -0500	typetext		[return]	12	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:35.201 -0500	click	FullName	at (661, 172)	18	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:35.202 -0500	Log		Randy	20	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:35.968 -0500	typetext		Randy[tab]	21	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:36.793 -0500	typetext		me@you.com[tab]	22	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:37.645 -0500	typetext		Hi everyone![tab]	23	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:38.545 -0500	click	Purple	at (642, 457)	29	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:39.409 -0500	click	Laptop	at (641, 517)	36	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:40.369 -0500	click	SupperTime	at (654, 580)	42	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:41.196 -0500	typetext		Breakfast	43	on_exercise_5	Exercise_5.script
+2018-02-15 17:32:41.908 -0500	typetext		[tab]	44	on_exercise_5	Exercise_5.script
+2018-02-15 17:33:13.221 -0500	typetext		[return]	45	on_exercise_5	Exercise_5.script
+2018-02-15 17:33:28.171 -0500	EndTestCase		(Duration:"61.086", Errors:"1", Exceptions:"0", StartTime:"2018-02-15 17:32:27 -0500", Successes:"0", TestCase:"Exercise_5.script", Warnings:"0")
+2018-02-15 17:33:28.182 -0500	ABORTED		Execution Time 0:01:01 Exercise_5.script

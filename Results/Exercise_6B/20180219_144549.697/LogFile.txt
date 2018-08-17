@@ -1,0 +1,16 @@
+﻿2018-02-19 14:45:49.700 -0500	START		Running Exercise_6B.script
+2018-02-19 14:46:01.921 -0500	doubleclick	ChromeDot_Unselected	at (38, 445)	2	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:12.325 -0500	imagefound	ChromeMaximizeButton	Unable to Find Image ChromeMaximizeButton	5	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:16.069 -0500	click	ChromeRefresh_AddressBarEntry	at (154, 46)	10	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:19.074 -0500	typetext		c:/temp/debugging.html	11	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:21.108 -0500	typetext		[return]	12	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:27.243 -0500	everyimagelocation	debugging_GreenSquare_original	found 6 images	14	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:27.393 -0500	click		at (104, 258)	15	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:28.172 -0500	click		at (107, 445)	15	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:28.952 -0500	click		at (395, 445)	15	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:29.732 -0500	click		at (683, 445)	15	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:30.512 -0500	click		at (971, 445)	15	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:31.291 -0500	click		at (1226, 452)	15	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:32.172 -0500	click	TestPlantLogo	at (130, 633)	18	on_exercise_6b	Exercise_6B.script
+2018-02-19 14:46:32.209 -0500	EndTestCase		(Duration:"42.505", Errors:"0", Exceptions:"0", StartTime:"2018-02-19 14:45:49 -0500", Successes:"1", TestCase:"Exercise_6B.script", Warnings:"0")
+2018-02-19 14:46:32.290 -0500	SUCCESS		Execution Time 0:00:43 Exercise_6B.script

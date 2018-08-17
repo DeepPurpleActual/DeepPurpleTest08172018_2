@@ -1,0 +1,37 @@
+﻿2018-02-14 15:23:25.993 -0500	START		Running Exercise_3.script
+2018-02-14 15:23:26.266 -0500	doubleclick	ChromeDot_Unselected	at (38, 445)	2	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:31.326 -0500	imagefound	ChromeMaximizeButton	Unable to Find Image ChromeMaximizeButton	5	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:31.430 -0500	click	ChromeRefresh_AddressBarEntry	at (154, 46)	10	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:32.408 -0500	typetext		nopcommerce.testplant.com	11	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:33.120 -0500	typetext		[return]	12	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:33.495 -0500	waitfor	NOP_logo	found at (399, 174)	15	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:33.932 -0500	click	NOP_logo	at (391, 174)	16	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:35.951 -0500	imagelocation	(TEXT:"Electronics")	at (675, 281)	19	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:37.331 -0500	imagelocation	(TEXT:"Electronics")	at (675, 281)	19	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:37.416 -0500	Log		(645,311)	20	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:38.820 -0500	moveto	(TEXT:"Electronics")	at (675, 281)	22	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:38.823 -0500	set		SEARCHRECTANGLE = ((645,311),(770,511))	23	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:39.732 -0500	click	(TEXT:"Camera & photo")	at (702, 326)	24	on_exercise_3	Exercise_3.script
+2018-02-14 15:23:39.734 -0500	set		SEARCHRECTANGLE = ()	25	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:11.271 -0500	imagefound	(TEXT:"Apple iCam")	Unable to Find Image (TEXT:"Apple iCam")	28	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:11.284 -0500	scrollwheeldown		moved 2	29	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:14.906 -0500	imagefound	(TEXT:"Apple iCam")	found at (1025, 841)	31	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:14.909 -0500	scrollwheeldown		moved 1	32	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:17.628 -0500	imagelocation	(TEXT:"Apple iCam")	at (1025, 741)	35	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:19.675 -0500	imagelocation	(TEXT:"Apple iCam")	at (1025, 741)	35	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:21.666 -0500	imagelocation	(TEXT:"Apple iCam")	at (1025, 741)	35	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:23.649 -0500	imagelocation	(TEXT:"Apple iCam")	at (1025, 741)	35	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:23.847 -0500	readtext		(990,756,1075,866)
+2018-02-14 15:24:23.858 -0500	Log		1,300.00	36	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:25.750 -0500	imagelocation	(TEXT:"Apple iCam")	at (1025, 741)	39	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:27.705 -0500	imagelocation	(TEXT:"Apple iCam")	at (1025, 741)	39	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:27.717 -0500	moveto		at (990, 776)	39	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:28.416 -0500	mousebuttondown		Button:1	40	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:31.252 -0500	imagelocation	(TEXT:"Apple iCam")	at (1025, 741)	41	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:33.398 -0500	imagelocation	(TEXT:"Apple iCam")	at (1025, 741)	41	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:33.529 -0500	moveto		at (1075, 846)	41	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:34.229 -0500	mousebuttonup		Button:1	42	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:34.949 -0500	typetext		[controlKey]c	43	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:35.267 -0500	Log		$1,300.00	45	on_exercise_3	Exercise_3.script
+2018-02-14 15:24:35.337 -0500	EndTestCase		(Duration:"69.341", Errors:"0", Exceptions:"0", StartTime:"2018-02-14 15:23:25 -0500", Successes:"1", TestCase:"Exercise_3.script", Warnings:"0")
+2018-02-14 15:24:35.406 -0500	SUCCESS		Execution Time 0:01:10 Exercise_3.script

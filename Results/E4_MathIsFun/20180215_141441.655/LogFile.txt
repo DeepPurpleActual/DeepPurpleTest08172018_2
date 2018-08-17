@@ -1,0 +1,5 @@
+﻿2018-02-15 14:14:41.657 -0500	START		Running E4_MathIsFun.script
+2018-02-15 14:14:41.790 -0500	Log		29	3	function_addingtwoitems	E4_AddItUp.script
+2018-02-15 14:14:41.812 -0500	Log		29	3	on_e4_mathisfun	E4_MathIsFun.script
+2018-02-15 14:14:41.848 -0500	EndTestCase		(Duration:"0.188", Errors:"0", Exceptions:"0", StartTime:"2018-02-15 14:14:41 -0500", Successes:"1", TestCase:"E4_MathIsFun.script", Warnings:"0")
+2018-02-15 14:14:41.921 -0500	SUCCESS		Execution Time 0:00:00 E4_MathIsFun.script

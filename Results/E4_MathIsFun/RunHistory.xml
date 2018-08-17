@@ -1,0 +1,219 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Exercise_4/MathIsFun">
+ <run>
+  <RunDate>2018-02-15 14:02:18.511 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.154000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_140218.511/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;additup&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:02:39.887 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.166000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_140239.887/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;addingtwoitems&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:03:03.501 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.175000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_140303.501/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;addingtwoitems&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:03:22.791 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.204000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_140322.791/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;addingtwoitems&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:03:44.874 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.156000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_140344.874/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;addingtwoitems&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:05:00.317 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.157000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_140500.317/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;addingtwoitems&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:05:33.138 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.162000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_140533.138/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;addingtwoitems&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:06:17.184 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.006000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180215_140617.184/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:06:43.475 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.005000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180215_140643.475/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:07:19.987 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.005000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180215_140719.987/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:08:04.708 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.186000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180215_140804.708/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:08:56.400 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.138000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_140856.400/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;addingtwoitems&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:09:17.343 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.158000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_140917.343/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;addingtwoitems&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:10:08.444 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.165000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_141008.444/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;addingtwoitems&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:11:10.962 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.166000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_141110.962/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;addingtwoitems&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:12:55.656 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.161000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_141255.656/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;addingtwoitems&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:13:15.052 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.138000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180215_141315.052/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;addingtwoitems&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:14:41.655 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.192000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180215_141441.655/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,8 @@
+﻿2018-02-15 17:05:32.966 -0500	START		Running Exercise_5.script
+2018-02-15 17:05:33.185 -0500	doubleclick	ChromeDot_Unselected	at (38, 445)	2	on_exercise_5	Exercise_5.script
+2018-02-15 17:05:38.248 -0500	imagefound	ChromeMaximizeButton	Unable to Find Image ChromeMaximizeButton	5	on_exercise_5	Exercise_5.script
+2018-02-15 17:05:38.420 -0500	click	ChromeRefresh_AddressBarEntry	at (154, 46)	10	on_exercise_5	Exercise_5.script
+2018-02-15 17:05:39.457 -0500	typetext		c:/temp/responsive_form.html	11	on_exercise_5	Exercise_5.script
+2018-02-15 17:05:40.170 -0500	typetext		[return]	12	on_exercise_5	Exercise_5.script
+2018-02-15 17:05:40.246 -0500	EndTestCase		(Duration:"7.277", Errors:"0", Exceptions:"0", StartTime:"2018-02-15 17:05:32 -0500", Successes:"1", TestCase:"Exercise_5.script", Warnings:"0")
+2018-02-15 17:05:40.317 -0500	SUCCESS		Execution Time 0:00:08 Exercise_5.script

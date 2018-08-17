@@ -1,0 +1,3 @@
+﻿2018-02-15 14:07:19.990 -0500	START		Running Exercise_4/MathIsFun.script
+2018-02-15 14:07:19.993 -0500	EndTestCase		(Duration:"0.001", Errors:"0", Exceptions:"0", StartTime:"2018-02-15 14:07:19 -0500", Successes:"1", TestCase:"Exercise_4/MathIsFun.script", Warnings:"0")
+2018-02-15 14:07:20.091 -0500	SUCCESS		Execution Time 0:00:00 Exercise_4/MathIsFun.script

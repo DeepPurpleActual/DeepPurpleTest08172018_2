@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="E4_MyCall">
+ <run>
+  <RunDate>2018-02-15 14:23:18.216 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.155000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180215_142318.216/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:24:47.811 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.240000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180215_142447.811/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-15 14:26:51.238 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.261000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180215_142651.238/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

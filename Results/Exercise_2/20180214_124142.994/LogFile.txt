@@ -1,0 +1,24 @@
+﻿2018-02-14 12:41:42.999 -0500	START		Running Exercise_2.script
+2018-02-14 12:41:43.219 -0500	doubleclick	ChromeDot_Unselected	at (38, 445)	2	on_exercise_2	Exercise_2.script
+2018-02-14 12:41:48.264 -0500	imagefound	ChromeMaximizeButton	Unable to Find Image ChromeMaximizeButton	5	on_exercise_2	Exercise_2.script
+2018-02-14 12:41:48.349 -0500	click	ChromeRefresh_AddressBarEntry	at (154, 46)	10	on_exercise_2	Exercise_2.script
+2018-02-14 12:41:49.327 -0500	typetext		nopcommerce.testplant.com	11	on_exercise_2	Exercise_2.script
+2018-02-14 12:41:50.039 -0500	typetext		[return]	12	on_exercise_2	Exercise_2.script
+2018-02-14 12:41:51.112 -0500	waitfor	NOP_logo	found at (391, 174)	15	on_exercise_2	Exercise_2.script
+2018-02-14 12:41:54.102 -0500	imagefound	HTCOneM8AndroidL50Lollipop	Unable to Find Image HTCOneM8AndroidL50Lollipop	18	on_exercise_2	Exercise_2.script
+2018-02-14 12:41:54.107 -0500	scrollwheeldown		moved 5	19	on_exercise_2	Exercise_2.script
+2018-02-14 12:41:57.784 -0500	imagefound	HTCOneM8AndroidL50Lollipop	Unable to Find Image HTCOneM8AndroidL50Lollipop	20	on_exercise_2	Exercise_2.script
+2018-02-14 12:41:57.786 -0500	scrollwheeldown		moved 5	19	on_exercise_2	Exercise_2.script
+2018-02-14 12:42:01.539 -0500	imagefound	HTCOneM8AndroidL50Lollipop	Unable to Find Image HTCOneM8AndroidL50Lollipop	20	on_exercise_2	Exercise_2.script
+2018-02-14 12:42:01.545 -0500	scrollwheeldown		moved 5	19	on_exercise_2	Exercise_2.script
+2018-02-14 12:42:05.326 -0500	imagefound	HTCOneM8AndroidL50Lollipop	Unable to Find Image HTCOneM8AndroidL50Lollipop	20	on_exercise_2	Exercise_2.script
+2018-02-14 12:42:05.332 -0500	scrollwheeldown		moved 5	19	on_exercise_2	Exercise_2.script
+2018-02-14 12:42:09.063 -0500	imagefound	HTCOneM8AndroidL50Lollipop	Unable to Find Image HTCOneM8AndroidL50Lollipop	20	on_exercise_2	Exercise_2.script
+2018-02-14 12:42:09.070 -0500	scrollwheeldown		moved 5	19	on_exercise_2	Exercise_2.script
+2018-02-14 12:42:12.837 -0500	imagefound	HTCOneM8AndroidL50Lollipop	Unable to Find Image HTCOneM8AndroidL50Lollipop	20	on_exercise_2	Exercise_2.script
+2018-02-14 12:42:12.842 -0500	scrollwheeldown		moved 5	19	on_exercise_2	Exercise_2.script
+2018-02-14 12:42:16.539 -0500	imagefound	HTCOneM8AndroidL50Lollipop	Unable to Find Image HTCOneM8AndroidL50Lollipop	20	on_exercise_2	Exercise_2.script
+2018-02-14 12:42:16.545 -0500	scrollwheeldown		moved 5	19	on_exercise_2	Exercise_2.script
+2018-02-14 12:42:20.287 -0500	imagefound	HTCOneM8AndroidL50Lollipop	Unable to Find Image HTCOneM8AndroidL50Lollipop	20	on_exercise_2	Exercise_2.script
+2018-02-14 12:42:27.756 -0500	EndTestCase		(Duration:"44.754", Errors:"1", Exceptions:"0", StartTime:"2018-02-14 12:41:43 -0500", Successes:"0", TestCase:"Exercise_2.script", Warnings:"0")
+2018-02-14 12:42:27.763 -0500	ABORTED		Execution Time 0:00:45 Exercise_2.script

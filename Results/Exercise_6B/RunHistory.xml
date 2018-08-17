@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Exercise_6a">
+ <run>
+  <RunDate>2018-02-19 14:34:03.243 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>3.607000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180219_143403.243/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-19 14:45:11.674 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>12.850000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180219_144511.674/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-19 14:45:49.697 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>42.511000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180219_144549.697/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

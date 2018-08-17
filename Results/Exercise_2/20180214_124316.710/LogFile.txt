@@ -1,0 +1,37 @@
+﻿2018-02-14 12:43:16.714 -0500	START		Running Exercise_2.script
+2018-02-14 12:43:16.966 -0500	doubleclick	ChromeDot_Unselected	at (38, 445)	2	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:22.011 -0500	imagefound	ChromeMaximizeButton	Unable to Find Image ChromeMaximizeButton	5	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:22.116 -0500	click	ChromeRefresh_AddressBarEntry	at (154, 46)	10	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:23.099 -0500	typetext		nopcommerce.testplant.com	11	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:23.811 -0500	typetext		[return]	12	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:24.554 -0500	waitfor	NOP_logo	found at (399, 174)	15	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:24.758 -0500	click	NOP_logo	at (399, 174)	16	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:28.726 -0500	imagefound	HTCOneM8AndroidL50Lollipop	Unable to Find Image HTCOneM8AndroidL50Lollipop	20	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:28.732 -0500	scrollwheeldown		moved 5	21	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:32.637 -0500	imagefound	HTCOneM8AndroidL50Lollipop	Unable to Find Image HTCOneM8AndroidL50Lollipop	22	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:32.641 -0500	scrollwheeldown		moved 5	21	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:33.573 -0500	imagefound	HTCOneM8AndroidL50Lollipop	found at (1262, 815)	22	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:33.579 -0500	scrollwheeldown		moved 1	23	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:34.530 -0500	imagelocation	HTCOneM8AndroidL50Lollipop	at (1262, 715)	26	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:34.780 -0500	imagelocation	HTCOneM8AndroidL50Lollipop	at (1262, 715)	27	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:34.863 -0500	set		SEARCHRECTANGLE = ((1262,715),(1462,915))	28	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:35.060 -0500	click	AddToCartButton	at (1361, 869)	29	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:35.062 -0500	set		SEARCHRECTANGLE = ()	30	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:35.780 -0500	typetext		[controlKey][homeKey]	33	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:41.665 -0500	click	ShoppingCartIcon	at (1426, 87)	34	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:42.880 -0500	imagelocation	ProductsColumnHeader	at (556, 420)	37	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:42.992 -0500	imagelocation	ProductsColumnHeader	at (556, 420)	38	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:43.082 -0500	set		SEARCHRECTANGLE = ((556,420),(956,820))	39	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:43.168 -0500	imagefound	(TEXT:"HTC One M8 Android")	found at (637, 506)	40	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:43.169 -0500	LogSuccess		Item is in cart	41	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:43.197 -0500	moveto		at (637, 506)	43	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:43.198 -0500	set		SEARCHRECTANGLE = ()	47	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:43.959 -0500	imagelocation	QtyColumnHeader	at (1398, 437)	50	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:44.047 -0500	Log		(1398,437)	51	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:44.049 -0500	Log		(637,506)	52	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:44.071 -0500	set		SEARCHRECTANGLE = ((1398,496),(1423,516))	55	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:44.091 -0500	readtext		(1398,496,1423,516)
+2018-02-14 12:43:44.175 -0500	Log		2	57	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:44.198 -0500	typetext		[optionKey][F4]	63	on_exercise_2	Exercise_2.script
+2018-02-14 12:43:44.228 -0500	EndTestCase		(Duration:"27.511", Errors:"0", Exceptions:"0", StartTime:"2018-02-14 12:43:16 -0500", Successes:"1", TestCase:"Exercise_2.script", Warnings:"0")
+2018-02-14 12:43:44.565 -0500	SUCCESS		Execution Time 0:00:28 Exercise_2.script

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Exercise_5">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-02-15 17:05:32 -0500</FirstRun>
+  <LastRun>2018-02-15 17:05:32 -0500</LastRun>
+  <TotalTimeOnSuccess>7.282000</TotalTimeOnSuccess>
+ </script>
+ <script name="Exercise_2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-02-14 11:51:00 -0500</FirstRun>
+  <LastRun>2018-02-14 12:43:16 -0500</LastRun>
+  <TotalTimeOnSuccess>27.775000</TotalTimeOnSuccess>
+ </script>
+ <script name="E4_AddItUp">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-02-15 14:11:04 -0500</FirstRun>
+  <LastRun>2018-02-15 14:11:04 -0500</LastRun>
+  <TotalTimeOnSuccess>0.171000</TotalTimeOnSuccess>
+ </script>
+ <script name="E4_MathIsFun">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>18</NumberOfRuns>
+  <NumberOfFails>13</NumberOfFails>
+  <FirstRun>2018-02-15 14:02:18 -0500</FirstRun>
+  <LastRun>2018-02-15 14:14:41 -0500</LastRun>
+  <TotalTimeOnSuccess>0.394000</TotalTimeOnSuccess>
+ </script>
+ <script name="E4_MyCall">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-02-15 14:23:18 -0500</FirstRun>
+  <LastRun>2018-02-15 14:26:51 -0500</LastRun>
+  <TotalTimeOnSuccess>0.656000</TotalTimeOnSuccess>
+ </script>
+ <script name="Exercise_6B">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-02-19 14:34:03 -0500</FirstRun>
+  <LastRun>2018-02-19 14:45:49 -0500</LastRun>
+  <TotalTimeOnSuccess>58.968000</TotalTimeOnSuccess>
+ </script>
+ <script name="Exercise_3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-02-14 15:23:25 -0500</FirstRun>
+  <LastRun>2018-02-14 15:23:25 -0500</LastRun>
+  <TotalTimeOnSuccess>69.347000</TotalTimeOnSuccess>
+ </script>
+</statistics>

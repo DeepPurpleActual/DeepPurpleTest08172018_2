@@ -1,0 +1,17 @@
+﻿2018-02-14 14:13:19.985 -0500	START		Running Exercise_3.script
+2018-02-14 14:13:20.217 -0500	doubleclick	ChromeDot_Unselected	at (38, 445)	2	on_exercise_3	Exercise_3.script
+2018-02-14 14:13:25.292 -0500	imagefound	ChromeMaximizeButton	Unable to Find Image ChromeMaximizeButton	5	on_exercise_3	Exercise_3.script
+2018-02-14 14:13:25.462 -0500	click	ChromeRefresh_AddressBarEntry	at (154, 46)	10	on_exercise_3	Exercise_3.script
+2018-02-14 14:13:26.445 -0500	typetext		nopcommerce.testplant.com	11	on_exercise_3	Exercise_3.script
+2018-02-14 14:13:27.157 -0500	typetext		[return]	12	on_exercise_3	Exercise_3.script
+2018-02-14 14:13:36.832 -0500	waitfor	NOP_logo	found at (391, 174)	15	on_exercise_3	Exercise_3.script
+2018-02-14 14:13:36.995 -0500	click	NOP_logo	at (391, 174)	16	on_exercise_3	Exercise_3.script
+2018-02-14 14:14:04.944 -0500	imagefound	(TEXT:"Camera & photo")	Unable to Find Image (TEXT:"Camera & photo")	20	on_exercise_3	Exercise_3.script
+2018-02-14 14:14:04.948 -0500	scrollwheeldown		moved 2	21	on_exercise_3	Exercise_3.script
+2018-02-14 14:14:32.967 -0500	imagefound	(TEXT:"Camera & photo")	Unable to Find Image (TEXT:"Camera & photo")	23	on_exercise_3	Exercise_3.script
+2018-02-14 14:14:32.989 -0500	scrollwheeldown		moved 2	21	on_exercise_3	Exercise_3.script
+2018-02-14 14:15:04.350 -0500	imagefound	(TEXT:"Camera & photo")	Unable to Find Image (TEXT:"Camera & photo")	23	on_exercise_3	Exercise_3.script
+2018-02-14 14:15:04.353 -0500	scrollwheeldown		moved 2	21	on_exercise_3	Exercise_3.script
+2018-02-14 14:15:35.294 -0500	imagefound	(TEXT:"Camera & photo")	Unable to Find Image (TEXT:"Camera & photo")	23	on_exercise_3	Exercise_3.script
+2018-02-14 14:16:30.494 -0500	EndTestCase		(Duration:"190.505", Errors:"1", Exceptions:"0", StartTime:"2018-02-14 14:13:19 -0500", Successes:"0", TestCase:"Exercise_3.script", Warnings:"0")
+2018-02-14 14:16:30.497 -0500	ABORTED		Execution Time 0:03:11 Exercise_3.script
